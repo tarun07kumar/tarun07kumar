@@ -12,7 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tarun07kumar&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tarun07kumar&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-##**Hacktoberfest BADGES**
+## **Hacktoberfest BADGES**
 [![An image of @tarun07kumar's Holopin badges](https://holopin.me/tarun07kumar)](https://holopin.io/@tarun07kumar)
 
 ## 🏆 GitHub Trophies
